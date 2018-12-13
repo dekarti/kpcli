@@ -28,7 +28,7 @@ Notes
 -----
 
 This image:
-- is built on top of Alpine Linux v.3.6 Docker image 
+- is built on top of Alpine Linux v.3.8 Docker image 
 - weights around 40MB
 
 References
